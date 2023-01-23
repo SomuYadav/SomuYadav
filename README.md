@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Somendra, an iOS Engineer based in Bengaluru, India. I currently work as an SDE-III at Walmart and I'm passionate about building beautiful, user-friendly apps for iOS. I believe that a well-designed app can make a big impact on people's lives and I strive to create apps that are not only functional 
+I'm Somendra, an iOS Engineer working remotely. I currently work as an **SDE-III at Walmart** and I'm passionate about building beautiful, user-friendly apps for iOS. I believe that a well-designed app can make a big impact on people's lives and I strive to create apps that are not only functional 
 but also visually appealing.
 
 - 🔭 I’m currently working on SWiftUI Project.
