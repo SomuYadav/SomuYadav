@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SomuYadav/SomuYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Somendra, an iOS Engineer based in Bengaluru, India. I currently work as an SDE-III at Walmart and I'm passionate about building beautiful, user-friendly apps for iOS. I believe that a well-designed app can make a big impact on people's lives and I strive to create apps that are not only functional 
 but also visually appealing.
 
@@ -21,4 +18,3 @@ Here are some of my recent projects:
 🔒 SYPinView: This is a simple OTP View for iOS. It's a great addition to any app that requires secure logins.
 
 I'm always open to feedback, so feel free to reach out and send me your thoughts. I'm always looking for ways to improve my skills and I welcome any suggestions or critiques. Happy coding! 🚀
--->
